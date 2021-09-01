@@ -26,6 +26,17 @@ $ composer require liaosp/laravel-validate-ext -vvv
 | mobile  |验证手机 |
 | idCard  |身份证 |
 
+
+```php
+$data = ['name' => '小廖one'];
+
+$v = \Illuminate\Support\Facades\Validator::make($data, ['name' => 'chsAlpha']);
+
+$this->assertTrue(!$v->fails());
+```
+
+[扩展包编写教程](https://liaosp.blog.csdn.net/article/details/120035631)
+
 ## Contributing
 
 You can contribute in one of three ways:
