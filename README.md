@@ -1,6 +1,6 @@
 <h1 align="center"> laravel-validate-ext </h1>
 
-<p align="center"> laravel validate ext.</p>
+<p align="center"> 📦Laravel 验证中文，手机号，身份号</p>
 
 
 ## Installing
@@ -9,9 +9,16 @@
 $ composer require liaosp/laravel-validate-ext -vvv
 ```
 
-## Usage
+## 使用
 
-TODO
+|  标识   | 说明  |
+|  ----  | ----  |
+| chs  | 验证某个字段的值只能是汉字 |
+| chsAlpha  | 验证某个字段的值只能是汉字、字母 |
+| chsAlphaNum  | 验证某个字段的值只能是汉字、字母和数字 |
+| chsDash  |验证某个字段的值只能是汉字、字母、数字和下划线_及破折号- |
+| mobile  |验证手机 |
+| idCard  |身份证 |
 
 ## Contributing
 

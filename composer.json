@@ -9,6 +9,13 @@
         }
     ],
     "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Liaosp\\LaravelValidateExt\\LaravelValidateExtProvider"
+            ]
+        }
+    },
     "autoload": {
         "psr-4": {
             "Liaosp\\LaravelValidateExt\\": "src"
