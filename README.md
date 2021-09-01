@@ -1,12 +1,10 @@
 <h1 align="center"> Lravel 验证扩展 </h1>
+
 [![Latest Stable Version](https://poser.pugx.org/liaosp/laravel-validate-ext/v/stable)](https://packagist.org/packages/liaosp/laravel-validate-ext)
 [![Total Downloads](https://poser.pugx.org/liaosp/laravel-validate-ext/downloads)](https://packagist.org/packages/liaosp/laravel-validate-ext)
 [![Daily Downloads](https://poser.pugx.org/liaosp/laravel-validate-ext/d/daily)](https://packagist.org/packages/liaosp/laravel-validate-ext)
 [![License](https://poser.pugx.org/liaosp/laravel-validate-ext/license)](https://packagist.org/packages/liaosp/laravel-validate-ext)
 [![StyleCI](https://styleci.io/repos/53163405/shield)](https://styleci.io/repos/53163405/)
-[![Build Status](https://travis-ci.org/liaosp/laravel-validate-ext.svg?branch=master)](https://travis-ci.org/liaosp/laravel-validate-ext)
-[![PHPUnit Status](https://github.com/liaosp/laravel-validate-ext/workflows/PHPUnit/badge.svg?branch=master)](https://github.com/liaosp/laravel-validate-ext/actions?query=branch%3Amaster)
-
 
 <p align="center"> 📦Laravel 验证中文，手机号，身份号</p>
 
