@@ -1,0 +1,17 @@
+{
+    "name": "liaosp/laravel-validate-ext",
+    "description": "laravel validate ext 中文验证",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liaosp",
+            "email": "1194008361@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liaosp\\LaravelValidateExt\\": "src"
+        }
+    }
+}
